@@ -1,0 +1,4 @@
+## Title: |TInterface/Addons/BagBrother/Art/Bagnon-Plugin:16:16|t Bagnon |cff20ff20Scroll|r
+## Version: 1.0.0
+
+main.lua
